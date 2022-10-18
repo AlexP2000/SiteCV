@@ -1,0 +1,56 @@
+h1
+{
+    color: yellow;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+h2
+{
+    color: yellow;
+    position: absolute;
+    top: 55%;
+    left: 40%;
+}
+h3
+{
+    color: yellow;
+    position: absolute;
+    top: 60%;
+    left: 40%;
+}
+img
+{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    clip-path: circle();
+    
+}
+
+button
+{
+    background-color: gold;
+    position: absolute;
+    text-align: center;
+    border: none;
+    color: green;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    top: 68%;
+    left: 50%;
+    translate: -45,-50;
+    border-radius: 50%;
+}
+    
+
+button:hover
+{
+    opacity: 80%;
+}
