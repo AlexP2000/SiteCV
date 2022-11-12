@@ -17,3 +17,14 @@ div
 {
     text-align: center;
 }
+
+#trim
+{
+    position:absolute;
+    left:90%;
+    top: 88%;
+}
+#textare
+{
+    width: 220px;
+}

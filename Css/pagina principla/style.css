@@ -2,9 +2,11 @@ body
 {
     background-repeat: no-repeat;
     background-size: 100%;
+    
 }
 h1
 {
+    position: relative;
     text-align: center;
     font-style: italic, bold;
     font-family: cursive;
@@ -13,6 +15,7 @@ h1
 }
 button
 {
+    position: fixed;
     background-color: gold;
     position: absolute;
     text-align: center;
