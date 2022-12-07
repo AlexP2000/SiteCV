@@ -28,3 +28,18 @@ div
 {
     width: 220px;
 }
+#button
+{
+    position: relative;
+    width: 25%;
+    height: 50%;
+    left: 1%;
+    border-radius: 25px;
+    color: rgb(128, 122, 0);
+    background-color: red;
+}
+#button:hover
+{
+    opacity: 30%;
+    cursor: pointer;
+}
